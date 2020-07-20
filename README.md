@@ -1,7 +1,7 @@
 ### Hi there, I'm Sierkinhane. 👋
 ![Sierkinhane's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sierkinhane&show_icons=true&theme=radical)
 
-- 🌱 I’m a computer science postgraduate student at the <a href='https://www.szu.edu.cn'>Shenzhen University.</a>
+- 🌱 I’m a computer science postgraduate at the <a href='https://www.szu.edu.cn'>Shenzhen University.</a>
 - 🤔 I’m currently working on Computer Vision, research interests being focused on ...
 
 
