@@ -1,6 +1,5 @@
 ### Hi there, I'm Sierkinhane. 👋
-[![Sierkinhane's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sierkinhane&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Sierkinhane's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sierkinhane&show_icons=true&theme=radical)]
 🌱 I’m currently learning to learn how to learn.
 
 🤔 I’m looking for help with Deep Learning.
