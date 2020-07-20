@@ -1,9 +1,10 @@
 ### Hi there, I'm Sierkinhane. 👋
 ![Sierkinhane's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sierkinhane&show_icons=true&theme=radical)
 
-- 🔭 I’m a computer science post graduate student at the <a href='https://www.szu.edu.cn'>Shenzhen University.</a>
-- 🌱 I’m currently learning to learn how to learn.
-- 🤔 I’m looking for help with Deep Learning.
+- 🌱 I’m a computer science postgraduate student at the <a href='https://www.szu.edu.cn'>Shenzhen University.</a>
+- 🤔 I’m currently working on Computer Vision, research interests being focused on ...
+
+
 <!--
 **Sierkinhane/Sierkinhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
