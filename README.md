@@ -1,7 +1,7 @@
 ### Hi there, I'm Sierkinhane. 👋
 
 - 🌱 I’m a computer science postgraduate at <a href='https://www.szu.edu.cn'>Shenzhen University.</a>
-- ❤️ I’m currently working on Computer Vision, research interests being focused on weakly supervised learning...
+- ❤️ I’m currently working on Computer Vision, research interests being focused on unsupervised and weakly supervised learning...
 
 ![Sierkinhane's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sierkinhane&show_icons=true&theme=cobalt)
 
