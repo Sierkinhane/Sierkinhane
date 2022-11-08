@@ -1,4 +1,4 @@
-### Hi there, I'm Sierkinhane. 👋
+### Hi there, I'm Jinheng Xie. 👋
 
 - 🌱 I’m a computer science postgraduate at <a href='https://www.szu.edu.cn'>Shenzhen University.</a>
 - ❤️ I’m currently working on Computer Vision, research interest being focused on label-efficient learning of scene understanding ...
