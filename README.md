@@ -4,7 +4,7 @@
 
 - 🌱 I'm Jinheng Xie, currently a MPhill at Computer Vision Institute, Shenzhen University, supervised by Prof. <a href='https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl=en'>Linlin Shen.</a>
 - ❤️  My research interests focus on computer vision. Specifically, I was/am enthusiastically working on **label-efficient learning of scene understanding (object localization and segmentation in un/weakly-supervised manners)**. Besides, I'm working on exploring **multi-modal learning like vision + language** for scene understanding.
-- ❤️  I'm currently serving as a reviewer for **TPAMI** (IEEE Transactions on Pattern Analysis and Machine Intelligence) and **IJCV** (International Journal of Computer Vision).
+- ❤️  I'm currently serving as a reviewer for **TPAMI** (IEEE Transactions on Pattern Analysis and Machine Intelligence), **IJCV** (International Journal of Computer Vision), AAAI and CVPR.
 
 ![Sierkinhane's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sierkinhane&show_icons=true&theme=cobalt)
 
