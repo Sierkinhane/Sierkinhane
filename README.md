@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Jinheng Xie. 👋
 
-- 🌱 I'm Jinheng Xie, a second-year PhD student at National University of Singapore, working with Professor [Mike Shou](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN). </a>
-- ❤️  My research interests focus on computer vision. Currently, I'm working on exploring **multi-modal pre-training and generation** like generative pre-training and text-to-image generation.
+- 🌱 I'm Jinheng Xie, a second-year PhD student at the National University of Singapore, working with Professor [Mike Shou](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN). </a>
+- ❤️ I'm currently exploring **multi-modal pre-training and generation** like generative pre-training and text-to-image generation.
 
 ![Sierkinhane's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sierkinhane&show_icons=true&theme=cobalt)
 
