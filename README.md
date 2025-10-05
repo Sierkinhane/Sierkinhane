@@ -9,7 +9,7 @@
 - ❤️ I'm currently exploring **multi-modal pre-training and generation** like generative pre-training and text-to-image generation.
 -->
 
-A third-year PhD student at Show Lab, National University of Singapore, working with Prof. [Mike Shou](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN). Prior to my PhD, I dedicated three years to exploring label-efficient learning for scene understanding, focusing on weakly-supervised object localization and semantic segmentation. In my first year of PhD journey, I delved into visual prompt learning and effective controllable image synthesis. Currently, I’m concentrating on unifying multimodal understanding and generation within a native unified multimodal model. I have pre-trained and post-trained two models, [Show-o](https://github.com/showlab/Show-o)) and [Show-o2](https://github.com/showlab/Show-o), with trainable parameters up to 7 billion and utilizing billion-scale datasets.
+A third-year PhD student at Show Lab, National University of Singapore, working with Prof. [Mike Shou](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN). Prior to my PhD, I dedicated three years to exploring label-efficient learning for scene understanding, focusing on weakly-supervised object localization and semantic segmentation. In my first year of PhD journey, I delved into visual prompt learning and effective controllable image synthesis. Currently, I’m concentrating on unifying multimodal understanding and generation within a native unified multimodal model. I have trained two unified multimodal models, [Show-o](https://github.com/showlab/Show-o)) and [Show-o2](https://github.com/showlab/Show-o), with trainable parameters up to 7 billion and utilizing billion-scale datasets.
 
 
 <!--
